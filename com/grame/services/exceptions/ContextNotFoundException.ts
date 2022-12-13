@@ -8,6 +8,6 @@ namespace com.grame.services.exceptions {
     ContextNotFoundException["__class"] = "com.grame.services.exceptions.ContextNotFoundException";
     ContextNotFoundException["__interfaces"] = ["java.io.Serializable"];
 
-
+// UPD 13.12.2022 Exeption NotFound
 }
 
